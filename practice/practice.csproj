@@ -44,6 +44,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ArithmaticUsingSwitch.cs" />
+    <Compile Include="call_by_ref.cs" />
+    <Compile Include="call_by_value.cs" />
     <Compile Include="Even_Odd.cs" />
     <Compile Include="Gradedisplay.cs" />
     <Compile Include="greatestnumber.cs" />
