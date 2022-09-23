@@ -52,6 +52,8 @@
     <Compile Include="gross_salary.cs" />
     <Compile Include="if_else_conditional_stmt.cs" />
     <Compile Include="LeapYear.cs" />
+    <Compile Include="Out.cs" />
+    <Compile Include="Params.cs" />
     <Compile Include="Positive_Negative.cs" />
     <Compile Include="Postfix_Prefix.cs" />
     <Compile Include="Program.cs" />
