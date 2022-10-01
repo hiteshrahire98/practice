@@ -58,6 +58,8 @@
     <Compile Include="Postfix_Prefix.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SumOfDigit.cs" />
+    <Compile Include="SwapWithoutThirdVariable.cs" />
     <Compile Include="TernaryOperator.cs" />
     <Compile Include="Vowel_Consonent.cs" />
   </ItemGroup>
